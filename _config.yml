@@ -116,7 +116,7 @@ author:
   name             : "Eric Sigg"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm a mechanical engineer ... add"
-  location         : "New York NY/Philadelphia PA"
+  location         : "New York NY / Philadelphia PA"
   email            :
   links:
     - label: "ericdsigg@gmail.com"
@@ -129,9 +129,6 @@ author:
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/ericsigg1"
 
-# Site Footer
-footer:
-  
 
 
 # Reading Files
