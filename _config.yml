@@ -1,3 +1,4 @@
+@@ -1,295 +1,296 @@
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -130,7 +131,7 @@ author:
       # url: "https://github.com/ericsigg1"
   
   # Site Footer
-footer:
+  footer:
 
 # Reading Files
 include:
@@ -286,7 +287,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: portfolio
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -294,8 +295,3 @@ defaults:
       comments: # true
       share: true
       related: true
- 
- collections:
-  portfolio:
-    output: true
-    permalink: /portfolio/:name/
