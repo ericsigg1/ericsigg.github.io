@@ -7,3 +7,41 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Portfolio Grid Styles */
+.portfolio-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+  }
+  
+  .portfolio-item {
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    background: #fff;
+    transition: transform 0.3s ease;
+  }
+  
+  .portfolio-item:hover {
+    transform: translateY(-5px);
+  }
+  
+  .portfolio-item img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  .portfolio-item h3 {
+    margin: 0.5rem 0;
+    font-size: 1.25rem;
+  }
+  
+  .portfolio-item p {
+    color: #666;
+    font-size: 0.9rem;
+    margin: 0 1rem 1rem;
+  }
+  

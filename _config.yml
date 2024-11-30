@@ -290,7 +290,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_portfolio"
       type: posts
     values:
       layout: single
