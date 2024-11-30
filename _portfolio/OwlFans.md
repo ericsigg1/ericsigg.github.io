@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Project Name"
+title: "Owl Fan"
 categories: portfolio
 tags: [tag1, tag2]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Example Project"
+title: "Soft Robot Controls"
 category: portfolio
 tags: [web, design]
 ---
