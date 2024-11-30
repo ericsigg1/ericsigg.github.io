@@ -11,3 +11,18 @@ Welcome to my portfolio! I'm excited to show off some of the projects I've worke
 
 PLACEHOLDER IMAGE
 ![My Image](/assets/images/IMG_5727.JPG)
+
+
+<div class="portfolio-grid">
+  {% for item in site.portfolio %}
+    <div class="portfolio-item">
+      <a href="{{ item.url | relative_url }}">
+        {% if item.image %}
+          <img src="{{ item.image | relative_url }}" alt="{{ item.title }}">
+        {% endif %}
+        <h3>{{ item.title }}</h3>
+        <p>{{ item.description }}</p>
+      </a>
+    </div>
+  {% endfor %}
+</div>
