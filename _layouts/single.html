@@ -36,6 +36,9 @@ layout: default
           </h1>
           {%- endif %}
           {% include page__meta.html %}
+          {% if page.image %}
+            <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+          {% endif %}
         </header>
       {% endunless %}
 
