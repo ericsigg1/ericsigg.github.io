@@ -13,16 +13,13 @@ PLACEHOLDER IMAGE
 ![My Image](/assets/images/IMG_5727.JPG)
 
 
-<div class="portfolio-grid">
-  {% for item in site.portfolio %}
-    <div class="portfolio-item">
-      <a href="{{ item.url | relative_url }}">
-        {% if item.image %}
-          <img src="{{ item.image | relative_url }}" alt="{{ item.title }}">
-        {% endif %}
-        <h3>{{ item.title }}</h3>
-        <p>{{ item.description }}</p>
-      </a>
-    </div>
+<div class="projects-grid">
+  {% for project in site.portfolio %}
+  <div class="project-item">
+    <a href="{{ project.url }}">
+      <img src="{{ project.image | relative_url }}" alt="{{ project.title }}">
+      <h2>{{ project.title }}</h2>
+    </a>
+  </div>
   {% endfor %}
 </div>
