@@ -2,7 +2,7 @@
 layout: single
 title: "Quantum Dots"
 category: portfolio
-tags: [web, design]
+image: /assets/images/IMG_5727.jpg
 ---
 
 A brief description of the project goes here. Include any relevant details, links, or images.

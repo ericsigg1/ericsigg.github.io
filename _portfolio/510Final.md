@@ -2,7 +2,8 @@
 layout: single
 title: "Mechatronics Final Project"
 categories: portfolio
-tags: [tag1, tag2]
+image: /assets/images/IMG_5022.jpg
+
 ---
 
 Description of the project goes here. Add images, links, or videos.
