@@ -286,7 +286,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: portfolio
     values:
       layout: single
       author_profile: true
@@ -294,3 +294,8 @@ defaults:
       comments: # true
       share: true
       related: true
+ 
+ collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:name/
