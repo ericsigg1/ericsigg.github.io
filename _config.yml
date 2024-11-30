@@ -128,8 +128,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/ericsigg1"
-
-
+  
+  # Site Footer
+  footer:
 
 # Reading Files
 include:
