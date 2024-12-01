@@ -1,7 +1,8 @@
 ---
 layout: single
-title: "LASSIE Robot Leg"
+title: "Stage Lighting Design"
 category: portfolio
+image: /assets/images/lightboard.png
 tags: [web, design]
 ---
 
