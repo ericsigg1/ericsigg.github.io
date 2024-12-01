@@ -2,6 +2,7 @@
 layout: single
 title: "MEMS devices"
 category: portfolio
+image: /assets/images/mems.png
 tags: [web, design]
 ---
 
