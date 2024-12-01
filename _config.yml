@@ -114,10 +114,10 @@ analytics:
 # Site Author
 author:
   name             : "Eric Sigg"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/EricSiggHeadshot.jpg"
   bio              : "I'm a mechanical engineer ... add"
   location         : "New York NY / Philadelphia PA"
-  email            :
+  email            : ericdsigg@gmail.com
   links:
     - label: "ericdsigg@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
