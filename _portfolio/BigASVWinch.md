@@ -1,8 +1,9 @@
 ---
 layout: single
-title: "Big ASV Winch"
+title: "Autonomous Surface Vehicle Sensor Suite Winch"
 categories: portfolio
 image: /assets/images/BigASVWinch.JPG
 ---
 
-Description of the project goes here. Add images, links, or videos.
+I developed a winch system capable of raising and lowering a sensor suite mounted to an autonomous surface vehicle. 
+ADD GIF of it working

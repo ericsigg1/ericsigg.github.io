@@ -1,7 +1,8 @@
 ---
 layout: single
-title: "CHessboard"
+title: "Chessboard"
 category: portfolio
+image: /assets/images/check.png
 tags: [web, design]
 ---
 
