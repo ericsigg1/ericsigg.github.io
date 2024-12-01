@@ -4,6 +4,7 @@ title: "Hi! I'm Eric Sigg"
 collection: portfolio
 entries_layout: grid
 permalink: /
+author_profile: true
 ---
 
 
