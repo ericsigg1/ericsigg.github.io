@@ -2,6 +2,7 @@
 layout: single
 title: "Rubik's cube injection mold"
 category: portfolio
+image: /assets/images/cube.JPG
 tags: [web, design]
 ---
 

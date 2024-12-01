@@ -2,6 +2,7 @@
 layout: single
 title: "Owl Fan"
 categories: portfolio
+image: /assets/images/owl.png
 tags: [tag1, tag2]
 ---
 
