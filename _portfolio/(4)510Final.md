@@ -2,7 +2,7 @@
 layout: single
 title: "Mechatronics Final Project"
 categories: portfolio
-image: /assets/images/IMG_5022.JPG
+image: /assets/images/IMG_5022.png
 
 ---
 
