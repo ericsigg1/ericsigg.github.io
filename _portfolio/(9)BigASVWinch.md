@@ -2,7 +2,7 @@
 layout: single
 title: "Autonomous Surface Vehicle Sensor Suite Winch"
 categories: portfolio
-image: /assets/images/ASVWater.JPG
+image: /assets/images/ASVWater.png
 order: 11
 ---
 ![The Winch System](/assets/images/BigASVWinch.JPG)
