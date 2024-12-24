@@ -13,9 +13,9 @@ Welcome to my portfolio! I'm excited to show off some of the projects I've worke
 PLACEHOLDER IMAGE
 ![My Image](/assets/images/IMG_5727.JPG)
 
-
 <div class="projects-grid">
-  {% for project in site.portfolio %}
+  {% assign projects = site.portfolio | sort: "order" %}
+  {% for project in projects %}
   <div class="project-item">
     <a href="{{ project.url }}">
       <img src="{{ project.image | relative_url }}" alt="{{ project.title }}">
