@@ -14,3 +14,4 @@ I collaborated with a masters student to design these boats from the ground up. 
 I also spent countless hours testing and tuning PID controllers to get these boats to travel as we hoped. These graphs show the final results of testing.
 
 ![PID Tuning Results (left original, proceeding to right are continued improvements to the new PID controller](/assets/images/PID.png)
+
