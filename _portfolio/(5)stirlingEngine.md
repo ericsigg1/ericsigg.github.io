@@ -2,9 +2,11 @@
 layout: single
 title: "Stirling Engine"
 category: portfolio
-tags: [web, design]
+image: /assets/images/stirlingEngineFront.JPG
+
 ---
 
-A brief description of the project goes here. Include any relevant details, links, or images.
+In my machine design and manufacturing, I designed and manufactured from scratch a working stirling engine. Parts for the engine were made from aluminum steel and brass, and machined using both manual and CNC machining technieuqe. 
 
-ADD GIF
+![Piston and Displacer Driving the Engine](/assets/images/stirlingEngineBack.png)
+
