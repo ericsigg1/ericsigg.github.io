@@ -2,7 +2,7 @@
 layout: single
 title: "Stirling Engine"
 category: portfolio
-image: /assets/images/stirlingEngineFront.JPG
+image: /assets/images/stirlingEngineFront.PNG
 
 ---
 
