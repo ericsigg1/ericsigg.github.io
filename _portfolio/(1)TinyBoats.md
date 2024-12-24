@@ -12,8 +12,8 @@ I spent the summer of 2023 developing these small, 4 inch long boats for the Sca
 
 I collaborated with a masters student to design these boats from the ground up. I developed custom boat hulls, and tested configurations of motors and motor controllers to find the most cost effective and reliable solution. From my first prototype in a plastic tub, to the finished product I learned alot about design, electronics, and software, in particular the integration of these three. 
 
-(ADD IMAGE OF PLASTIC TUB BOAT WITH FINAL BOAT NEXT TO IT)
+![Development Process of Boats](/assets/images/fishyBoatDevelopment.png)
 
 I also spent countless hours testing and tuning PID controllers to get these boats to travel as we hoped. These graphs show the final results of testing.
 
-(ADD IMAGE OF PID GRAPHS)
+![PID Tuning Results (left original, proceeding to right are continued improvements to the new PID controller](/assets/images/PID.png)
